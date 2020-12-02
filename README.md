@@ -2,6 +2,8 @@
 
 This app allows the user to create new notes, save them and delete them as the user pleases. 
 
+![html](public/assets/images/img0.png)
+
 1. Created HTML & API routes that returns the html files
 
     ![html](public/assets/images/img1.png)
