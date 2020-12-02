@@ -1,6 +1,7 @@
 //Path package to get to the correct file path for our html
 var path = require("path");
 
+//create HTML routes
 module.exports = function(app) {
 
     app.get("/notes", function(req, res) {
